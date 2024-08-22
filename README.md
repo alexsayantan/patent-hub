@@ -1,27 +1,58 @@
-# Patent
+# Patent-Hub 🌐
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Welcome to **Patent-Hub**! This Angular-based web app is designed for researchers to showcase their work, engage in community discussions, and explore others' research. 🚀✨
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Showcase Research**: Share your groundbreaking research with the world. 📚🌍
+- **Community Discussions**: Engage with fellow researchers and discuss various topics. 💬🤝
+- **Explore Research**: Discover and view research from other users. 🔍👀
 
-## Code scaffolding
+## Getting Started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To get a local copy up and running, follow these simple steps.
 
-## Build
+### Prerequisites
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Node.js
+- Angular CLI
 
-## Running unit tests
+### Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone the repo
+   ```sh
+   git clone https://github.com/alexsayantan/patent-hub.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the app
+   ```sh
+   ng serve
+   ```
 
-## Running end-to-end tests
+## Usage
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. **Sign Up/Login**: Create an account or log in to access all features.
+2. **Showcase Research**: Upload your research and share it with the community.
+3. **Engage in Discussions**: Participate in community discussions and share your insights.
+4. **Explore Research**: Browse through research shared by other users.
 
-## Further help
+## Contributing
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) for more information.
+
+## Contact
+
+Sayantan Saha - [sayantansaha11187@gmail.com](mailto:sayantansaha11187@gmail.com)
